@@ -31,4 +31,4 @@ Este es un proyecto de una aplicación web construida con **React** y **Vite** q
 1. Clona este repositorio en tu máquina:
 
    ```bash
-   git clone 
+   git clone https://github.com/tpnortonv/aves-de-chile.git
